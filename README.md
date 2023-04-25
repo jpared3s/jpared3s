@@ -8,7 +8,7 @@
 
 - 🎓 I completed a Diploma in Web Development at **Lighthouse Labs**
 
-- 👀 I’m interested in **Raptors, Marvel, Astronomy**
+- 👀 I’m interested in **Toronto Raptors, Marvel, Astronomy**
 
 - 📫 How to reach me **jparedes.wall@gmail.com**
 

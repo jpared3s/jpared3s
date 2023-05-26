@@ -4,7 +4,7 @@
 
 - 🌍  I'm based in **Toronto, Canada**
 
-- 🌱 I’m currently learning **Java, Typescript, Python**
+- 🌱 I’m currently working as a **Junior Developer at Credit Inc**
 
 - 🎓 I completed a Diploma in Web Development at **Lighthouse Labs**
 
